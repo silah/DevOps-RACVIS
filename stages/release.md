@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Release  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
+| Pipeline Stage:<br>Release  | Developer  | Testing team  | Release Manager  | Product Owner | Automation Engineer  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Select patches/features|      R   |       C  |     A,V    |       C  |      I   |
+| Approve release|         |         |     R    |        S |         |
+| Merge code   |   C      |         | R,A        | S        |         |
+
   
   
 [Home](../index.md)  

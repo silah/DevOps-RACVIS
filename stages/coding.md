@@ -6,12 +6,16 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Code  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Code  | Developer  | Scrum Master  | Product Owner 
+|----------------------------- |-------- |-------- |-------- |
+| Write Code |R,A,C   |    C,I     |    I     |   
+| Manage stand-ups  | C,I        | A,R        | I     
+| Write test scripts	|     R    |    A,S     |    
+| Version Control   |    R     |   A      |         
+| Code review 		|     R    |   A      |  
+| Push to build system	|     A,R   |    C     | S  
+| Retrospective		|     C,R    |    A,S     | I,C 
+      
   
   
 [Home](../index.md)  

@@ -6,12 +6,13 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Plan  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Plan  | Client| Product Owner  |Developer  | Scrum Master  
+|----------------------------- |-------- |-------- |-------- |-
+| Identify requirements  |   A,S|R   |C         |     C    |
+| Create user stories  |   C |   A,R  | I | I|
+| Assign story points |        I |     I    | R,S        |A         |
+| Priotize items |    C     | A,R        | I        | I        |
+| Plan Sprint |         |     S    |       I,C  |    A,R     |
   
   
 [Home](../index.md)  

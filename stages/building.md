@@ -6,12 +6,15 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Build  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Build  | SysAdmin  | Developer  | Automation engineer  | Tester  | Lead Developer  | 
+|----------------------------- |-------- |-------- |-------- |-------- |-
+| Identify automation tools|C| R,A |  C,V | C| S|
+| Identify dependencies|I| R,A |  C | |C |
+| Integrate pipeline|I| R,A |  C | | |
+| Write automation <br>scripts |R|R |R,A |  | C|
+| Stage environment | R,A|C |C  | | |
+| Install automation<br>tools |R,A |R |R  |R  |V |
+| Review Pipeline |C |C |C | C| R,A,S,V|
   
   
 [Home](../index.md)  

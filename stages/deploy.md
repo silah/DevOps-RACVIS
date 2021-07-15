@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Deploy  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Deploy  | Developer  | Release Manager  | Product Owner  | Tester  | Automation Engineer
+|----------------------------- |-------- |-------- |-------- |-------- |-
+| Verify package  |     R,V    |  A,S      |         |  C       |         I|
+| Initiate deployment<br>flow   | I        |  S       |    I     |         |R,A         |
+| Post deployment test |      C   |   V      |   I      |      S   |   R,A      |
+
   
   
 [Home](../index.md)  

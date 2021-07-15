@@ -6,12 +6,14 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Monitor  | Automation Engineer  | Monitoring Team  | Developer  | Solutions Architect
+|----------------------------- |-------- |-------- |-------- |-
+| Write monitoring scripts|      R,A   | C        | C        |V
+| Select monitoring tools|     R,A    | C,I        | C,V        |S
+| Monitor systems|        I,C |       R,A  | I        |         S|         |
+| Handle alerts|         | R,A        |  I       |         |         |
+
+
   
   
 [Home](../index.md)  

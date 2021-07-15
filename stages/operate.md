@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Operate  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Operate  | Developer  | End User  | Support Engineer  | Product Owner |
+|----------------------------- |-------- |-------- |-------- |-------- |
+| Provide Feedback|         |         | R        |I         |A
+| Triage issues|         |         |      C   |      R,A   |  I       |
+| Catalogue feedback|     I    |     R,C    |      R,C  |       R,A  |       |
+
   
   
 [Home](../index.md)  

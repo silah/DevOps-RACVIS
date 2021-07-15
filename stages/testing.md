@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Test  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Test  | Tester | Test Lead  | Developer  | Product Owner  | Scrum Master  | Business Tester (BUAT)
+|----------------------------- |-------- |-------- |-------- |-------- |-------- |-
+| Run test cases   |  R, V       | A, S        | C        |         |  I       | R
+| Provide Feedback          |    R,V     |     A,S    |      C,I   |      I   |       I  |R
+| Create test report   |      C   |  R   ,S    |      I   |         |        A |C
+| Log issues from test    |   R      |  A,S       | C,I        |     I    |   I      |
   
   
 [Home](../index.md)  

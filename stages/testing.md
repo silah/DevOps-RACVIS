@@ -8,7 +8,9 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Test  | Tester | Test Lead  | Developer  | Product Owner  | Scrum Master  | Business Tester (BUAT)
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |-
-| Run test cases   |  R, V       | A, S        | C        |         |  I       | R
+| Execute automated test cases   |  R, V       | A, S        | C        |         |  I       | R
+| Execute Manual test cases   |  R, V       | A, S        | C        |         |  I       | R
+| Execute User Acceptance Test cases   |  R, V       | A, S        | C        |         |  I       | R
 | Provide Feedback          |    R,V     |     A,S    |      C,I   |      I   |       I  |R
 | Create test report   |      C   |  R   ,S    |      I   |         |        A |C
 | Log issues from test    |   R      |  A,S       | C,I        |     I    |   I      |

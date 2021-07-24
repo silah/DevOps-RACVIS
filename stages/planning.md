@@ -6,12 +6,14 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Plan  | Client| Product Owner  |Developer  | Scrum Master  
-|----------------------------- |-------- |-------- |-------- |-
-| Identify requirements  |   A,S|R   |C         |     C    |
+| Pipeline Stage:<br>Plan  | Client| Product Owner  |Developer  | Scrum Master  | Project Manager | Development Lead| Automation Engineer
+|----------------------------- |-------- |-------- |-------- |-|-|-|-
+| Identify tool-sets |  |   |     R,V    |     C    | I| A,S| R
+| Identify requirements  |   A,S|R  ,V |C         |     C    | I||C
+| Capture acceptance criteria  |   R,S|A ,V |I        |     C    | I||
 | Create user stories  |   C |   A,R  | I | I|
-| Assign story points |        I |     I    | R,S        |A         |
-| Priotize items |    C     | A,R        | I        | I        |
+| Assign story points |        I |     I    | R,S        |A         | I
+| Prioritize items |    C     | A,R        | I        | I        |
 | Plan Sprint |         |     S    |       I,C  |    A,R     |
   
   

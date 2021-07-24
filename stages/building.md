@@ -8,6 +8,7 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Build  | SysAdmin  | Developer  | Automation engineer  | Tester  | Lead Developer  | 
 |----------------------------- |-------- |-------- |-------- |-------- |-
+| Set up infrastructure|A,R| C,V |  C,S | | |
 | Identify automation tools|C| R,A |  C,V | C| S|
 | Identify dependencies|I| R,A |  C | |C |
 | Integrate pipeline|I| R,A |  C | | |
@@ -15,6 +16,7 @@ Insert your description of the stage here
 | Stage environment | R,A|C |C  | | |
 | Install automation<br>tools |R,A |R |R  |R  |V |
 | Review Pipeline |C |C |C | C| R,A,S,V|
+| Build package | |R,A | C|I | V,S|
   
   
 [Home](../index.md)  
